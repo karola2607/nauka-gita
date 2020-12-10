@@ -31,4 +31,13 @@ body {
 	text-decoration: underline;
 }
 
-
+.page-footer {
+	position: fixed;
+	bottom: 0;
+	padding-top: 20px;
+	text-align: center;
+	width: 100%;
+	background-color: grey;
+	color: white;
+	height: 50px;
+}
