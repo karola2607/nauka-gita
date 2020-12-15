@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/karola2607/nauka-gita#readme",
   "devDependencies": {
-    "browser-sync": "^2.26.13"
+    "browser-sync": "^2.26.13",
+    "autoprefixer-cli": "^1.0.0",
+    "html-validate": "^4.0.2"
   }
 }
